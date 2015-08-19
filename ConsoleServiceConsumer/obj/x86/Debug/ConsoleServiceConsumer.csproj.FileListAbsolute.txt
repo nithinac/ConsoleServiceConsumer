@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\GitHub\ConsoleServiceConsumer\ConsoleServiceConsumer\bin\Debug\ConsoleServiceConsumer.exe.config
+C:\Users\Administrator\Documents\GitHub\ConsoleServiceConsumer\ConsoleServiceConsumer\bin\Debug\ConsoleServiceConsumer.exe
+C:\Users\Administrator\Documents\GitHub\ConsoleServiceConsumer\ConsoleServiceConsumer\bin\Debug\ConsoleServiceConsumer.pdb
+C:\Users\Administrator\Documents\GitHub\ConsoleServiceConsumer\ConsoleServiceConsumer\obj\x86\Debug\ConsoleServiceConsumer.exe
+C:\Users\Administrator\Documents\GitHub\ConsoleServiceConsumer\ConsoleServiceConsumer\obj\x86\Debug\ConsoleServiceConsumer.pdb
