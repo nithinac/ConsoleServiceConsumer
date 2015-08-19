@@ -11,8 +11,9 @@ namespace ConsoleServiceConsumer
         static void Main(string[] args)
         {
             Service service = new Service();
-            Console.WriteLine(service.HelloWorld());        
-            Console.Read();
+            Console.WriteLine(service.HelloWorld());
+            Console.WriteLine("Hello");
+            Console.ReadLine();
         }
     }
 }
